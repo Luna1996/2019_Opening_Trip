@@ -4,9 +4,7 @@
 ## Pre-statement
 I chooce Expedia Flight+Car which is reasonable cheap and convenient.
 <p align='center'>
-
-![Expedia Flight+Car](img/expedia.png)
-
+<img src='img/expedia.png'/>
 </p>
 
 ## Schedule
