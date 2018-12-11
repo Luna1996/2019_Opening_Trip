@@ -3,10 +3,10 @@
 **Duration:** 2019/01/06-2019/01/13
 ## Pre-statement
 I chooce Expedia Flight+Car which is reasonable cheap and convenient.
-<center>
+<p align='center'>
 
 ![Expedia Flight+Car](img/expedia.png)
 
-</center>
+</p>
 
 ## Schedule
