@@ -2,7 +2,7 @@
 **Travelers:** 40, b7, if  
 **Duration:** 2019/01/06-2019/01/13
 ## Pre-statement
-I made a [google map](https://www.google.com/maps/@26.5480212,-82.5296592,8z/data=!3m1!4b1!4m2!6m1!1s1AzwrIo2SpGukSxl32xe3bUdnjunadmNI?hl=en) that pin out those locations we plan to go.  
+I made a [google map](https://www.google.com/maps/d/viewer?mid=1AzwrIo2SpGukSxl32xe3bUdnjunadmNI&shorturl=1&ll=26.566686853170232%2C-81.52606509999998&z=8) that pin out those locations we plan to go.  
 I chooce Expedia Flight+Car which is reasonable cheap and convenient.
 <p align='center'>
   <a href='https://www.expedia.com/MultiItemCheckout?tripid=f3596500-1d6b-4b6d-a669-bdf6503462af&c=25d1e0ad-7b74-41bb-9959-a39101fa6f75'>
